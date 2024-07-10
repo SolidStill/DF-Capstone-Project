@@ -9,7 +9,7 @@ This repo contains the Project Plan, ETL pipeline code, Streamlit dashboard code
 
 ## Motivation and Aims
 
-Going through a GE campaign at the time of being tasked with this project, I became curious about the relationship between a political party's ups and downs and any associated movements in the sovereign bond markets.
+Going through a UK General Election campaign at the time of being tasked with this project, I became curious about the relationship between a political party's ups and downs and any associated movements in the sovereign bond markets.
 
 This pipeline serves as a launchpad for potentially investigating that analytically.
 
