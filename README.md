@@ -3,6 +3,8 @@
 
 Members of our Data Engineering cohort were tasked with building a basic ETL pipeline and associated Streamlit app that draws on the data we load into our DB.
 
+This repo contains the Project Plan, ETL pipeline code, Streamlit dashboard code, and the presentation slideshow/video for the project.
+
 # https://dashbunds.streamlit.app/
 
 ## Motivation and Aims
