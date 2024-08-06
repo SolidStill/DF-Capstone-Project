@@ -10,7 +10,7 @@ load_data_into_database(df, symbol)
 """
 
 def create_connection():
-    """Creates a connection to the PostgreSQL database. Helps me use graceful 'with' statements when handling DB connections"""
+    """Creates a connection to the PostgreSQL database."""
 
     try:
         my_user = SQL_USER
